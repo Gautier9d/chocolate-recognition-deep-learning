@@ -1,6 +1,14 @@
 MIT License
 
-Copyright (c) 2025 Gautier9d
+Copyright (c) 2025 EPFL - École Polytechnique Fédérale de Lausanne
+Image Analysis and Pattern Recognition (IAPR) Course Project
+
+Project Contributors:
+- Alessio Zazo
+- Gautier Demierre 
+- Georg Schwabedal 
+
+Academic Supervisor: IAPR Course Teaching Team, EPFL
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +27,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+ACADEMIC INTEGRITY NOTICE:
+This software was developed as part of an academic project at EPFL. If you are
+a student taking the IAPR course or a similar computer vision course, please be
+aware that submitting this work as your own may constitute academic dishonesty.
+This code is made available for educational and research purposes. Students are
+encouraged to understand the concepts and develop their own implementations.
+
+DATASET NOTICE:
+The chocolate dataset used in this project is property of the IAPR course at EPFL
+and is used under academic license. The dataset should not be redistributed
+without permission from the course instructors.
+
+ACKNOWLEDGMENTS:
+This project was completed as part of the Image Analysis and Pattern Recognition
+(IAPR) course at École Polytechnique Fédérale de Lausanne (EPFL) during the
+Spring 2025 semester.
